@@ -13,7 +13,7 @@
   {
     "name": "Harmonic Beats",
     "desc": "Fully functional Amazon Music clone with core features for an intuitive experience.",
-    "image": "AmazonMusic",
+    "image": "amazonMusic",
     "category": "Frontend",
     "links": {
       "view": "https://papaya-blancmange-ae73cc.netlify.app/",
