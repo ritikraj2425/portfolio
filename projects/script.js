@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "Projects | Portfolio Ritik Raj";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
@@ -117,7 +117,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 })();
 // End of Tawk.to Live Chat
 
-// disable developer mode
+// diRaj developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
