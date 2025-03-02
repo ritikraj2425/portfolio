@@ -1,5 +1,25 @@
 [
+  {
+    "name": "RemoteFlow",
+    "desc": "Create and organize notes with ease. Tailor your notes to fit your needs, whether for class projects or personal use.",
+    "image": "remoteflow",
+    "category": "mern",
+    "links": {
+      "view": "https://remoteflow.vercel.app/",
+      "code": "https://github.com/ritikraj2425/Remoteflow"
+    }
+  },
   
+  {
+    "name": "AI-Powered Travel Companion",
+    "desc": "AI web app that creates personalized travel itineraries based on user preferences.",
+    "image": "trip",
+    "category": "mern",
+    "links": {
+      "view": "https://gen-ai-trip-planner-gen-ai-workshop-70piqb7v5xq2.vercel.app/",
+      "code": "https://github.com/ritikraj2425/Gen-AI-trip-planner---Gen---AI-workshop---70piqb7v5xq2"
+    }
+  },
   {
     "name": "for5-JEE-Preparation-Platform",
     "desc": "A platform for JEE aspirants to solve curated questions, track performance, and compete in contests, inspired by LeetCode",
@@ -8,26 +28,6 @@
     "links": {
       "view": "https://for5-jee-preparation-app.vercel.app/",
       "code": "https://docs.google.com/document/d/1zuEkKPhsags0HNtqbQpeGb-XjPk3Aq4WlbdAb6wPIPs/edit?tab=t.0"
-    }
-  },
-  {
-    "name": "Harmonic Beats",
-    "desc": "Fully functional Amazon Music clone with core features for an intuitive experience.",
-    "image": "amazonMusic",
-    "category": "Frontend",
-    "links": {
-      "view": "https://papaya-blancmange-ae73cc.netlify.app/",
-      "code": "https://github.com/ritikraj2425/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---9bc08yuw9fx5"
-    }
-  },
-  {
-    "name": "WanderLust: Your AI-Powered Travel Companion",
-    "desc": "AI web app that creates personalized travel itineraries based on user preferences.",
-    "image": "trip",
-    "category": "mern",
-    "links": {
-      "view": "https://gen-ai-trip-planner-gen-ai-workshop-70piqb7v5xq2.vercel.app/",
-      "code": "https://github.com/ritikraj2425/Gen-AI-trip-planner---Gen---AI-workshop---70piqb7v5xq2"
     }
   }
 ]
